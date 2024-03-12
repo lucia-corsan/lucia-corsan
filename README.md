@@ -16,7 +16,7 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - :school: I am a `Senior (Fourth-Year)` student in [Data Science and Engineering](https://www.uc3m.es/bachelor-degree/data-science) at [uc3m](https://www.uc3m.es/home).
-- :world_map:	I am now based in Montréal (🇨🇦).
+- :world_map:	I am now based in Montréal (Canada 🇨🇦) for a year.
 - :student: I’m currently studying about `Data Engineering` and `Artificial Intelligence`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [my resume](https://www.canva.com/design/DAEuwCOhJpM/Rs7ydz6PoQMQgJg6HvpfIA/view?utm_content=DAEuwCOhJpM&utm_campaign=designshare&utm_medium=link&utm_source=editor).
