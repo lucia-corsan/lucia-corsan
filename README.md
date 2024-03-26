@@ -14,10 +14,11 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 
 ## <picture><img src = "https://cdn.dribbble.com/users/1756402/screenshots/4355051/media/af43d3b9566809b3e729649868f377f7.gif" width = 60px></picture>About me
 
-- :student: I am a `Senior (Fourth-Year)` student in [Data Science and Engineering](https://www.uc3m.es/bachelor-degree/data-science) at [uc3m](https://www.uc3m.es/home).
-- :world_map:	I am now based in Montréal (Canada 🇨🇦).
+- :woman_student: I am a `final year` student in [Data Science and Engineering](https://www.uc3m.es/bachelor-degree/data-science) at [Universidad Carlos III de Madrid](https://www.uc3m.es/home).
+- :telescope: I work as a `Machine Learning Researcher` in the [ML4DS group](https://ml4ds.webs.tsc.uc3m.es/), from the Signal Theory and Communications department.
 - :thinking: I’m always open for new `job opportunities`, this is [my resume](https://www.canva.com/design/DAEuwCOhJpM/Rs7ydz6PoQMQgJg6HvpfIA/view?utm_content=DAEuwCOhJpM&utm_campaign=designshare&utm_medium=link&utm_source=editor).
-- 🥋 I am a karate fighter since I was seven!
+- 🇨🇦	I am now based in Montréal (Canada).
+- 🥋 I am a karate fighter since I was 12! 
 
 ## &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> My Skills
 
