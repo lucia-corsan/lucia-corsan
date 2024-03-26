@@ -18,7 +18,6 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 - :world_map:	I am now based in Montréal (Canada 🇨🇦).
 - :thinking: I’m always open for new `job opportunities`, this is [my resume](https://www.canva.com/design/DAEuwCOhJpM/Rs7ydz6PoQMQgJg6HvpfIA/view?utm_content=DAEuwCOhJpM&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 - 🥋 I am a karate fighter since I was seven!
-<br>
 
 ## &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> My Skills
 
@@ -29,9 +28,7 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
  
 [![My Skills](https://skillicons.dev/icons?i=js,opencv,tensorflow,html,css,flask,wordpress,matlab,mongodb,github,latex)](https://skillicons.dev)
 
-<br>
-
-## &nbsp; <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUKUDYP76CKpDcyjmT1XmCB4m2RZ3p_OLPK8IpbjHfNh2I3RIJ" width="48px"> A fancy snake eating my contributions
+## &nbsp; <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUKUDYP76CKpDcyjmT1XmCB4m2RZ3p_OLPK8IpbjHfNh2I3RIJ" width="36px"> A fancy snake eating my contributions
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lucia-corsan/lucia-corsan/output/github-contribution-grid-snake.svg" />
