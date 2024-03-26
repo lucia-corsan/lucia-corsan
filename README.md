@@ -13,7 +13,6 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 <br>
 
 ## <picture><img src = "https://cdn.dribbble.com/users/1756402/screenshots/4355051/media/af43d3b9566809b3e729649868f377f7.gif" width = 60px></picture>About me
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 - :school: I am a `Senior (Fourth-Year)` student in [Data Science and Engineering](https://www.uc3m.es/bachelor-degree/data-science) at [uc3m](https://www.uc3m.es/home).
 - :world_map:	I am now based in Montréal (Canada 🇨🇦).
@@ -25,14 +24,13 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 ## &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> My Skills
 
 ### Currently using
-[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,selenium,pytorch,latex,anaconda,pycharm,github,linux,mysql,gcp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,selenium,linux,mysql,gcp&theme=light)](https://skillicons.dev)
 
  ### Foundational Knowledge
  
-[![My Skills](https://skillicons.dev/icons?i=js,opencv,tensorflow,html,css,flask,wordpress,matlab,mongodb,vscode)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,opencv,tensorflow,html,css,flask,wordpress,matlab,mongodb,github,latex)](https://skillicons.dev)
 
 ---
 
-Last Edited on: 22/02/2024
+Last Edited on: 26/03/2024
 
