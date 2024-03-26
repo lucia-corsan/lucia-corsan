@@ -14,7 +14,7 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 
 ## <picture><img src = "https://cdn.dribbble.com/users/1756402/screenshots/4355051/media/af43d3b9566809b3e729649868f377f7.gif" width = 60px></picture>About me
 
-- :woman_student: I am a `final year` student in [Data Science and Engineering](https://www.uc3m.es/bachelor-degree/data-science) at [Universidad Carlos III de Madrid](https://www.uc3m.es/home).
+- :woman_student: I am a final year student in [Data Science and Engineering](https://www.uc3m.es/bachelor-degree/data-science) at [Universidad Carlos III de Madrid](https://www.uc3m.es/home).
 - :telescope: I work as a `Machine Learning Researcher` in the [ML4DS group](https://ml4ds.webs.tsc.uc3m.es/), from the Signal Theory and Communications department.
 - :thinking: I’m always open for new `job opportunities`, this is [my resume](https://www.canva.com/design/DAEuwCOhJpM/Rs7ydz6PoQMQgJg6HvpfIA/view?utm_content=DAEuwCOhJpM&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 - 🇨🇦	I am now based in Montréal (Canada).
