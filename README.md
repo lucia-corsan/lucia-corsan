@@ -18,7 +18,7 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 - :school: I am a `Senior (Fourth-Year)` student in [Data Science and Engineering](https://www.uc3m.es/bachelor-degree/data-science) at [uc3m](https://www.uc3m.es/home).
 - :world_map:	I am now based in Montréal (Canada 🇨🇦).
 - :student: I’m currently studying about `Data Engineering` and `Artificial Intelligence`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [my resume](https://www.canva.com/design/DAEuwCOhJpM/Rs7ydz6PoQMQgJg6HvpfIA/view?utm_content=DAEuwCOhJpM&utm_campaign=designshare&utm_medium=link&utm_source=editor).
+- :thinking: I’m always open for new `job opportunities`, this is [my resume](https://www.canva.com/design/DAEuwCOhJpM/Rs7ydz6PoQMQgJg6HvpfIA/view?utm_content=DAEuwCOhJpM&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 - 🥋 I am a karate fighter since I was seven!
 <br>
 
