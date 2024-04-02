@@ -12,7 +12,7 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 </p>
 <br>
 
-## <picture><img src = "https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width = 60px></picture>About me
+## <picture><img src = "https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width = 50px></picture>About me
 
 - :woman_student: I am a final year student in [Data Science and Engineering](https://www.uc3m.es/bachelor-degree/data-science) at [Universidad Carlos III de Madrid](https://www.uc3m.es/home).
 - :telescope: I work as a `Machine Learning Researcher` in the [ML4DS group](https://ml4ds.webs.tsc.uc3m.es/), from the Signal Theory and Communications department.
