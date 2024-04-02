@@ -12,7 +12,7 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 </p>
 <br>
 
-## <picture><img src = "https://cdn.dribbble.com/users/1756402/screenshots/4355051/media/af43d3b9566809b3e729649868f377f7.gif" width = 60px></picture>About me
+## <picture><img src = "https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width = 60px></picture>About me
 
 - :woman_student: I am a final year student in [Data Science and Engineering](https://www.uc3m.es/bachelor-degree/data-science) at [Universidad Carlos III de Madrid](https://www.uc3m.es/home).
 - :telescope: I work as a `Machine Learning Researcher` in the [ML4DS group](https://ml4ds.webs.tsc.uc3m.es/), from the Signal Theory and Communications department.
@@ -29,7 +29,7 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
  
 [![My Skills](https://skillicons.dev/icons?i=js,opencv,tensorflow,html,css,flask,wordpress,matlab,mongodb,github,latex)](https://skillicons.dev)
 
-## &nbsp; <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUKUDYP76CKpDcyjmT1XmCB4m2RZ3p_OLPK8IpbjHfNh2I3RIJ" width="36px"> A fancy snake eating my contributions
+## &nbsp; A fancy snake eating my contributions
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lucia-corsan/lucia-corsan/output/github-contribution-grid-snake.svg" />
