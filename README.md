@@ -29,7 +29,7 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
  
 [![My Skills](https://skillicons.dev/icons?i=js,opencv,tensorflow,html,css,flask,wordpress,matlab,mongodb,github,latex)](https://skillicons.dev)
 
-## &nbsp; A fancy snake eating my contributions
+## A fancy snake eating my contributions
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lucia-corsan/lucia-corsan/output/github-contribution-grid-snake.svg" />
