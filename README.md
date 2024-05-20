@@ -17,7 +17,6 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 - :woman_student: I am a final year student in [Data Science and Engineering](https://www.uc3m.es/bachelor-degree/data-science) at [Universidad Carlos III de Madrid](https://www.uc3m.es/home).
 - :telescope: I work as a `Machine Learning Researcher` in the [ML4DS group](https://ml4ds.webs.tsc.uc3m.es/), from the Signal Theory and Communications department.
 - :thinking: I’m always open for new `job opportunities`, this is [my CV](https://www.canva.com/design/DAEuwCOhJpM/Rs7ydz6PoQMQgJg6HvpfIA/view?utm_content=DAEuwCOhJpM&utm_campaign=designshare&utm_medium=link&utm_source=editor).
-- 🇨🇦	I am now based in Montréal (Canada).
 - 🥋 I am a karate fighter since I was 12! 
 
 ## &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> My skills
