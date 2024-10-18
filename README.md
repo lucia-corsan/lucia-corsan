@@ -14,7 +14,8 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 
 ## <picture><img src = "https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" width = 50px></picture>About me
 
-- :woman_student: In 2024, I graduated from a Bachelor's Degree in [Data Science and Engineering](https://www.uc3m.es/bachelor-degree/data-science) and started a MSc in [Applied AI](https://www.uc3m.es/master/applied-artificial-intelligence) at Universidad Carlos III de Madrid.
+- 📗 I am a student from the MSc in [Applied AI](https://www.uc3m.es/master/applied-artificial-intelligence) at Universidad Carlos III de Madrid.
+- :woman_student: In 2024, I graduated from a Bachelor's Degree in [Data Science and Engineering](https://www.uc3m.es/bachelor-degree/data-science).
 - :telescope: I work as `Business Intelligence Engineer` at Amazon, and a `Contents Editor` at neptune.ai. Previously, I worked as a `Machine Learning Researcher` in the [Signal Theory and Communications](https://ml4ds.webs.tsc.uc3m.es/) department at UC3M.
 - :thinking: I’m always open for new `job opportunities`, this is [my CV](https://www.canva.com/design/DAEuwCOhJpM/Rs7ydz6PoQMQgJg6HvpfIA/view?utm_content=DAEuwCOhJpM&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 - 🥋 I am a karate fighter since I was 12! 
