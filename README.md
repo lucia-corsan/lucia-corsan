@@ -22,12 +22,20 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 
 ## &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> My skills
 
-### Currently using
-[![My Skills](https://skillicons.dev/icons?i=py,r,sklearn,selenium,linux,mysql,gcp&theme=light)](https://skillicons.dev)
+### Programming Languages
+[![Lenguajes](https://skillicons.dev/icons?i=py,r,js)](https://skillicons.dev)
 
- ### Foundational Knowledge
- 
-[![My Skills](https://skillicons.dev/icons?i=js,opencv,tensorflow,html,css,flask,wordpress,matlab,mongodb,github,latex)](https://skillicons.dev)
+### Machine Learning / Data Science
+[![ML y DS](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv)](https://skillicons.dev)
+
+### Databases
+[![Bases de Datos](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
+### Cloud y DevOps
+[![Cloud y DevOps](https://skillicons.dev/icons?i=gcp,aws,github,powershell)](https://skillicons.dev)
+
+### Web Development, Documentation and Other Technologies
+[![Web y Otras](https://skillicons.dev/icons?i=html,css,flask,wordpress, latex)](https://skillicons.dev)
 
 ## A fancy snake eating my contributions
 
