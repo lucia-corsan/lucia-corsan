@@ -35,7 +35,7 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 [![Cloud y DevOps](https://skillicons.dev/icons?i=gcp,aws,github,powershell)](https://skillicons.dev)
 
 ### Web Development, Documentation and Other Technologies
-[![Web y Otras](https://skillicons.dev/icons?i=html,css,flask,wordpress, latex)](https://skillicons.dev)
+[![Web y Otras](https://skillicons.dev/icons?i=html,css,flask,wordpress,latex)](https://skillicons.dev)
 
 ## A fancy snake eating my contributions
 
