@@ -31,10 +31,10 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 ### Databases
 [![Bases de Datos](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
-### Cloud y DevOps
+### Cloud and DevOps
 [![Cloud y DevOps](https://skillicons.dev/icons?i=gcp,aws,github,powershell)](https://skillicons.dev)
 
-### Web Development, Documentation and Other Technologies
+### Web Development, Documentation and Others
 [![Web y Otras](https://skillicons.dev/icons?i=html,css,flask,wordpress,latex)](https://skillicons.dev)
 
 ## A fancy snake eating my contributions
