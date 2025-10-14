@@ -21,27 +21,17 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 
 ## &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> My skills
 
-### Programming Languages
-[![Lenguajes](https://skillicons.dev/icons?i=py,r,js)](https://skillicons.dev)
-
-### Machine Learning / Data Science
-[![ML y DS](https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv)](https://skillicons.dev)
-
-### Databases
-[![Bases de Datos](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
-
-### Cloud and DevOps
-[![Cloud y DevOps](https://skillicons.dev/icons?i=gcp,aws,github,powershell)](https://skillicons.dev)
-
-### Web Development, Documentation and Others
-[![Web y Otras](https://skillicons.dev/icons?i=html,css,flask,wordpress,latex)](https://skillicons.dev)
+| **Languages** | **Machine Learning / Data Science** | **Databases** | **Cloud / DevOps** |
+|---------------|-------------|---------------------|---------------------|
+| ![Python](https://skillicons.dev/icons?i=py) ![R](https://skillicons.dev/icons?i=r) ![JS](https://skillicons.dev/icons?i=js) | ![Sklearn](https://skillicons.dev/icons?i=sklearn) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Azure](https://skillicons.dev/icons?i=azure) ![GitHub](https://skillicons.dev/icons?i=github) ![PowerShell](https://skillicons.dev/icons?i=powershell) |
 
 ## A fancy snake eating my contributions
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lucia-corsan/lucia-corsan/output/github-contribution-grid-snake.svg" />
+
   
 ---
 
-Last Edited on: 26/03/2024
+Last Edited on: 14/10/2025
 
