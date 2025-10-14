@@ -21,9 +21,14 @@ Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/424
 
 ## &nbsp; <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> My skills
 
-| **Languages** | **Machine Learning / Data Science** | **Databases** | **Cloud / DevOps** |
-|---------------|-------------|---------------------|---------------------|
+
+<div align="center">
+
+| **Lenguajes** | **ML / DS** | **Bases de Datos** | **Cloud / DevOps** |
+|:-------------:|:-----------:|:-------------------:|:-------------------:|
 | ![Python](https://skillicons.dev/icons?i=py) ![R](https://skillicons.dev/icons?i=r) ![JS](https://skillicons.dev/icons?i=js) | ![Sklearn](https://skillicons.dev/icons?i=sklearn) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![OpenCV](https://skillicons.dev/icons?i=opencv) | ![MySQL](https://skillicons.dev/icons?i=mysql) ![MongoDB](https://skillicons.dev/icons?i=mongodb) | ![Azure](https://skillicons.dev/icons?i=azure) ![GitHub](https://skillicons.dev/icons?i=github) ![PowerShell](https://skillicons.dev/icons?i=powershell) |
+
+</div>
 
 ## A fancy snake eating my contributions
 
