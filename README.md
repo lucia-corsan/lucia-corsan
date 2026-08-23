@@ -30,16 +30,18 @@
 <div align="center">
 
 ## about me 💻
-TBD
+<p align="center">
+  <img src="./assets/education.svg" width="100%" alt="Lucía Cordero experience timeline">
+</p>
 
 ## toolkit 🛠️
 
-<img src="https://skillicons.dev/icons?i=py,r,js,pytorch,tensorflow,sklearn,opencv,mysql,mongodb,azure,docker,kubernetes,terraform,github,powershell&perline=15" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=py,r,js,pytorch,tensorflow,sklearn,opencv,mysql,mongodb,azure,github,powershell&perline=15" alt="tech stack" />
 
 <br>
 
 <sub>
-python · machine learning · genAI · agents · cloud · data · devops · mildly unnecessary side projects
+python · machine learning · genAI · agents · cloud · data
 </sub>
 
 </div>
