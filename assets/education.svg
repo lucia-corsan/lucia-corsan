@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1000 285" fill="none" xmlns="http://www.w3.org/2000/svg"
+<svg viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg"
   role="img" aria-label="Lucía Cordero — education">
   <style>
     :root {
@@ -39,32 +39,43 @@
     }
   </style>
 
-  <line x1="120" y1="12" x2="120" y2="270"
+  <line x1="120" y1="12" x2="120" y2="286"
         stroke="var(--rule)" stroke-width="1" opacity=".45"/>
 
   <g class="rise a1">
-    <text class="mono" x="36" y="46" font-size="12" fill="var(--accent)" letter-spacing="1.6">2024 –</text>
+    <!-- Official Phosphor Icons student, regular weight -->
+    <g transform="translate(42,27) scale(0.18)">
+      <path d="M226.53,56.41l-96-32a8,8,0,0,0-5.06,0l-96,32A8,8,0,0,0,24,64v80a8,8,0,0,0,16,0V75.1L73.59,86.29a64,64,0,0,0,20.65,88.05c-18,7.06-33.56,19.83-44.94,37.29a8,8,0,1,0,13.4,8.74C77.77,197.25,101.57,184,128,184s50.23,13.25,65.3,36.37a8,8,0,0,0,13.4-8.74c-11.38-17.46-27-30.23-44.94-37.29a64,64,0,0,0,20.65-88l44.12-14.7a8,8,0,0,0,0-15.18ZM176,120A48,48,0,1,1,89.35,91.55l36.12,12a8,8,0,0,0,5.06,0l36.12-12A47.89,47.89,0,0,1,176,120ZM128,87.57,57.3,64,128,40.43,198.7,64Z" fill="var(--accent)"/>
+    </g>
+
     <text class="mono" x="140" y="46" font-size="15" font-weight="600" fill="var(--text)">
-      Universidad Carlos III de Madrid · MSc Applied Artificial Intelligence
+      MSc in Applied Artificial Intelligence
     </text>
-    <text class="mono" x="140" y="72" font-size="13.5" fill="var(--muted)">
-      GPA 8.98/10 · Deep Learning · Multiagent Systems · Business Analytics
+    <text class="mono" x="140" y="77" font-size="13.5" fill="var(--muted)">
+      learnt that I really like multiagent systems, finance,
     </text>
-    <text class="mono" x="140" y="94" font-size="13.5" fill="var(--muted)">
-      honors in Probabilistic Methods in AI &amp; Ambient Intelligence
+    <text class="mono" x="140" y="99" font-size="13.5" fill="var(--muted)">
+      and AI that actually interacts with the world around it
     </text>
   </g>
 
   <g class="rise a2">
-    <text class="mono" x="25" y="166" font-size="12" fill="var(--accent)" letter-spacing="1.2">2020–24</text>
-    <text class="mono" x="140" y="166" font-size="15" font-weight="600" fill="var(--text)">
-      Universidad Carlos III de Madrid · BSc Data Science &amp; Engineering
+    <!-- Official Phosphor Icons graduation-cap, regular weight -->
+    <g transform="translate(42,142) scale(0.18)">
+      <path d="M251.76,88.94l-120-64a8,8,0,0,0-7.52,0l-120,64a8,8,0,0,0,0,14.12L32,117.87v48.42a15.91,15.91,0,0,0,4.06,10.65C49.16,191.53,78.51,216,128,216a130,130,0,0,0,48-8.76V240a8,8,0,0,0,16,0V199.51a115.63,115.63,0,0,0,27.94-22.57A15.91,15.91,0,0,0,224,166.29V117.87l27.76-14.81a8,8,0,0,0,0-14.12ZM128,200c-43.27,0-68.72-21.14-80-33.71V126.4l76.24,40.66a8,8,0,0,0,7.52,0L176,143.47v46.34C163.4,195.69,147.52,200,128,200Zm80-33.75a97.83,97.83,0,0,1-16,14.25V134.93l16-8.53ZM188,118.94l-.22-.13-56-29.87a8,8,0,0,0-7.52,14.12L171,128l-43,22.93L25,96,128,41.07,231,96Z" fill="var(--accent)"/>
+    </g>
+
+    <text class="mono" x="140" y="160" font-size="15" font-weight="600" fill="var(--text)">
+      BSc in Data Science &amp; Engineering + Minor in Economics
     </text>
-    <text class="mono" x="140" y="192" font-size="13.5" fill="var(--muted)">
-      Minor in Economics · ML · neural networks · computer vision · AI for business
+    <text class="mono" x="140" y="191" font-size="13.5" fill="var(--muted)">
+      studied about AI before ChatGPT was everyone’s default tab, moved to Montréal for a year
     </text>
-    <text class="mono" x="140" y="214" font-size="13.5" fill="var(--muted)">
-      exchange @ Concordia University · Montréal, Canada
+    <text class="mono" x="140" y="213" font-size="13.5" fill="var(--muted)">
+      learnt a bunch (now I speak French and know how to fry an egg), met great people,
+    </text>
+    <text class="mono" x="140" y="235" font-size="13.5" fill="var(--muted)">
+      and came back wanting to build more things
     </text>
   </g>
 </svg>
