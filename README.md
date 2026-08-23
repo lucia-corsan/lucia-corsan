@@ -3,7 +3,7 @@
 <p align="center">
   <samp>applied AI grad student + solutions architect @ microsoft :)</samp>
   <br>
-  <samp>building little things for fun (and occasionally usefulness)</samp>
+  <samp>building things for fun (and occasionally usefulness)</samp>
 </p>
 <p align="center"> <a href="mailto:luciaa.corsan@gmail.com"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="supun nanayakkara" height="30" width="40" /></a> <a href="https://github.com/lucia-corsan"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="supun nanayakkara" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/luciacordero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a> </p>
 
