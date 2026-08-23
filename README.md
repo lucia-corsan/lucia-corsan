@@ -1,9 +1,16 @@
 <h1 align="center">Hello World! I'm <a href="https://github.com/lucia-corsan" target="blank">
 Lucía  </a><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h1>
 
+## 🫧 this is where my fun side quests live
+
 <p align="center">
-  <img src="https://media0.giphy.com/media/VtR7ehaGlRyPRjmEzG/giphy.gif" alt="Alt Text" width="150"/>
+<a href="https://github.com/lucia-corsan/Formula-One-ML"><img src="./assets/formula-one.gif" width="20%" alt="Formula-One-ML"></a><a href="https://github.com/lucia-corsan/Smart-Meet"><img src="./assets/smartmeet.gif" width="20%" alt="Smart-Meet"></a><a href="https://github.com/lucia-corsan/tfm"><img src="./assets/tfm.gif" width="20%" alt="Accessible Routing · TFM"></a><a href="https://github.com/lucia-corsan/US-Elections"><img src="./assets/us-elections.gif" width="20%" alt="US-Elections"></a><a href="https://github.com/lucia-corsan/Universities_Crawler"><img src="./assets/universities.gif" width="20%" alt="Universities_Crawler"></a>
 </p>
+
+<p align="center">
+  <sub>click a creature to visit its repo 🐠</sub>
+</p>
+
 <br>
 <p align="center">
 <a href="mailto:luciaa.corsan@gmail.com"><img align="center" src="https://www.svgrepo.com/show/223047/gmail.svg" alt="supun nanayakkara" height="30" width="40" /></a>
